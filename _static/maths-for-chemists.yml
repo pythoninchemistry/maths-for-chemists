@@ -1,0 +1,15 @@
+name: m4c
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.11
+  - pip=24.3.1
+  - sphinx=7.4.7
+  - jupyterlab=4.3.4
+  - numpy=1.26.4
+  - scipy=1.15.1
+  - matplotlib=3.10.0
+  - jupyter-book=1.0.3
+  - sympy=1.13.3
+  - pip:
+    - sphinxcontrib-mermaid==1.0.0

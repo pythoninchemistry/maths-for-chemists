@@ -1,0 +1,25 @@
+div.example {
+    border-left-color: #b3b3f99f
+}
+div.example .admonition-title {
+    background-color: #b3b3f9;
+    color: #000000;
+}
+
+div.example > .admonition-title:after {
+    content: '\270e';
+    color: #000000
+}
+
+div.chem {
+    border-left-color: #fef9c49f
+}
+div.chem .admonition-title {
+    background-color: #fef9c4;
+    color: #000000;
+}
+
+div.chem > .admonition-title:after {
+    content: '\1F9EA';
+    color: #000000
+}
