@@ -7,3 +7,4 @@ parts:
 - caption: Mathematical Foundations
   chapters:
   - file: mathematical-foundations/addition-subtraction-multiplication-division
+  - file: mathematical-foundations/mathematical-notation-symbols-operators
