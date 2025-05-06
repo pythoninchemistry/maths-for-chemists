@@ -15,6 +15,7 @@ This project is led by [Andrew R. McCluskey](https://scams-research.github.io) (
 ## Contributors 
 
 - Andrew R. McCluskey
+- Alan M. Lewis
 
 ```{tableofcontents}
 ```
