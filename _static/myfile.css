@@ -23,3 +23,9 @@ div.chem > .admonition-title:after {
     content: '\1F9EA';
     color: #000000
 }
+
+hr {
+    border-color: #377e22;
+    border-width: 2px;
+    opacity: 1;
+  }
