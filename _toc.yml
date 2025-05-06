@@ -8,6 +8,7 @@ parts:
   chapters:
   - file: mathematical-foundations/addition-subtraction-multiplication-division
   - file: mathematical-foundations/mathematical-notation-symbols-operators
+  - file: mathematical-foundations/fractions
 - caption: Algebra
   chapters:
   - file: algebra/powers
