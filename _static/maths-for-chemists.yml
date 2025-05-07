@@ -13,3 +13,4 @@ dependencies:
   - sympy=1.13.3
   - pip:
     - sphinxcontrib-mermaid==1.0.0
+    - pint==0.24.4
