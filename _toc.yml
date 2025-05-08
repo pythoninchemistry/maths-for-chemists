@@ -11,6 +11,7 @@ parts:
   - file: mathematical-foundations/fractions
   - file: mathematical-foundations/percentages
   - file: mathematical-foundations/rounding
+  - file: mathematical-foundations/equations
   - file: mathematical-foundations/graphs
 - caption: Algebra
   chapters:
