@@ -8,7 +8,7 @@ div.example .admonition-title {
 
 div.example > .admonition-title:after {
     content: '\270e';
-    color: #000000
+    color: #000000;
 }
 
 div.chem {
@@ -21,7 +21,20 @@ div.chem .admonition-title {
 
 div.chem > .admonition-title:after {
     content: '\1F9EA';
-    color: #000000
+    color: #000000;
+}
+
+div.python {
+    border-left-color: #377e22
+}
+div.python .admonition-title {
+    background-color: #377e22;
+    color: #ffffff;
+}
+
+div.python > .admonition-title:after {
+    content: '\1f40d';
+    color: #ffffff;
 }
 
 hr {
