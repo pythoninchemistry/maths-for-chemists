@@ -32,3 +32,24 @@ And
 Information about a chemistry relevant example. 
 ```
 ````
+
+For adding Python, we ask that the Python section is demarcated with horizontal lines:
+
+```{markdown}
+<hr>
+
+print('Hello World!)
+
+<hr>
+```
+
+Generally, the Python does not necessarily require explanation, in terms of *how* Python works. 
+Just give it some context if necessary. 
+However, if you really want to include some additional commentary, please use the Python Note admonition: 
+
+````{markdown}
+```{admonition} Python Note
+:class: python
+Perhaps some information about an interesting library?
+```
+````
