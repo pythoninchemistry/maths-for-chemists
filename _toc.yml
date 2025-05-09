@@ -16,3 +16,6 @@ parts:
 - caption: Algebra
   chapters:
   - file: algebra/powers
+- caption: Differentiation
+  chapters:
+  - file: differentiation/intro
