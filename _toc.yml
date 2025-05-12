@@ -19,3 +19,5 @@ parts:
 - caption: Differentiation
   chapters:
   - file: differentiation/intro
+  - file: differentiation/polynomials
+  - file: differentiation/sums
