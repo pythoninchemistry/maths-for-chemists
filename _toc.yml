@@ -20,4 +20,5 @@ parts:
   chapters:
   - file: differentiation/intro
   - file: differentiation/polynomials
+  - file: differentiation/trigonometric
   - file: differentiation/sums
