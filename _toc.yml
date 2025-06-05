@@ -21,4 +21,5 @@ parts:
   - file: differentiation/intro
   - file: differentiation/polynomials
   - file: differentiation/trigonometric
+  - file: differentiation/exp_log
   - file: differentiation/sums
