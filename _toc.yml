@@ -23,3 +23,4 @@ parts:
   - file: differentiation/trigonometric
   - file: differentiation/exp_log
   - file: differentiation/sums
+  - file: differentiation/product
