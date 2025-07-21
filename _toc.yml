@@ -24,3 +24,4 @@ parts:
   - file: differentiation/exp_log
   - file: differentiation/sums
   - file: differentiation/product
+  - file: differentiation/quotient
