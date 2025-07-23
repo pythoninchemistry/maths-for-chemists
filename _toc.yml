@@ -25,3 +25,4 @@ parts:
   - file: differentiation/sums
   - file: differentiation/product
   - file: differentiation/quotient
+  - file: differentiation/chain
