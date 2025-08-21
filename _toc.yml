@@ -27,3 +27,4 @@ parts:
   - file: differentiation/quotient
   - file: differentiation/chain
   - file: differentiation/stationary
+  - file: differentiation/partial
