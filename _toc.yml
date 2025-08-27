@@ -16,6 +16,9 @@ parts:
 - caption: Algebra
   chapters:
   - file: algebra/powers
+- caption: Geometry and Trigonometry
+  chapters:
+  - file: geometry-trigonometry/geometry
 - caption: Differentiation
   chapters:
   - file: differentiation/intro
@@ -28,3 +31,6 @@ parts:
   - file: differentiation/chain
   - file: differentiation/stationary
   - file: differentiation/partial
+- caption: Appendices
+  chapters: 
+  - file: glossary
