@@ -19,6 +19,8 @@ parts:
 - caption: Geometry and Trigonometry
   chapters:
   - file: geometry-trigonometry/geometry
+  - file: geometry-trigonometry/trigonometry
+  - file: geometry-trigonometry/polar-coordinates
 - caption: Differentiation
   chapters:
   - file: differentiation/intro
@@ -31,6 +33,13 @@ parts:
   - file: differentiation/chain
   - file: differentiation/stationary
   - file: differentiation/partial
+- caption: Integration
+  chapters:
+  - file: integration/intro
+- caption: Complex Numbers
+  chapters:
+  - file: complex-numbers/imaginary-numbers
+  - file: complex-numbers/complex-numbers
 - caption: Appendices
   chapters: 
   - file: glossary
