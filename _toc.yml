@@ -16,6 +16,7 @@ parts:
 - caption: Algebra
   chapters:
   - file: algebra/powers
+  - file: algebra/physical-quantities
 - caption: Geometry and Trigonometry
   chapters:
   - file: geometry-trigonometry/geometry
