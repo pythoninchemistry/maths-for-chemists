@@ -17,6 +17,7 @@ parts:
   chapters:
   - file: algebra/powers
   - file: algebra/physical-quantities
+  - file: algebra/exponentials
 - caption: Geometry and Trigonometry
   chapters:
   - file: geometry-trigonometry/geometry
