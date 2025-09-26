@@ -16,6 +16,7 @@ parts:
 - caption: Algebra
   chapters:
   - file: algebra/powers
+  - file: algebra/rearranging-equations
   - file: algebra/physical-quantities
   - file: algebra/exponentials
 - caption: Geometry and Trigonometry
