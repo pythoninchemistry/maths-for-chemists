@@ -20,6 +20,7 @@ parts:
   - file: algebra/physical-quantities
   - file: algebra/exponentials
   - file: algebra/logarithms
+  - file: algebra/rearranging-exp-log
 - caption: Geometry and Trigonometry
   chapters:
   - file: geometry-trigonometry/geometry
