@@ -19,6 +19,7 @@ parts:
   - file: algebra/rearranging-equations
   - file: algebra/physical-quantities
   - file: algebra/exponentials
+  - file: algebra/logarithms
 - caption: Geometry and Trigonometry
   chapters:
   - file: geometry-trigonometry/geometry
