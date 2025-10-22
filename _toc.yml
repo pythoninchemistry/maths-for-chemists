@@ -22,6 +22,7 @@ parts:
   - file: algebra/logarithms
   - file: algebra/rearranging-exp-log
   - file: algebra/simultaneous-equations
+  - file: algebra/quadratics
 - caption: Geometry and Trigonometry
   chapters:
   - file: geometry-trigonometry/geometry
