@@ -48,6 +48,7 @@ parts:
   chapters:
   - file: complex-numbers/imaginary-numbers
   - file: complex-numbers/complex-numbers
+  - file: complex-numbers/arithmetic-of-complex-numbers
 - caption: Appendices
   chapters: 
   - file: glossary
