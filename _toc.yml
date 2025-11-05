@@ -44,6 +44,9 @@ parts:
 - caption: Integration
   chapters:
   - file: integration/intro
+- caption: Vectors
+  chapters:
+  - file: vectors/intro
 - caption: Complex Numbers
   chapters:
   - file: complex-numbers/imaginary-numbers

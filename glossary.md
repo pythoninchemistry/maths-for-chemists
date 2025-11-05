@@ -9,4 +9,7 @@ dimensional analysis
 
 machine precision
     Machine precision is the smallest difference between two distinct floating-point numbers that a computer can represent.
+
+real numbers
+    Real numbers are all numbers that can represent continuous quantities along a number line, in contrast to complex numbers, which include an imaginary component.
 ```
