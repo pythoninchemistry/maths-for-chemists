@@ -47,6 +47,7 @@ parts:
 - caption: Vectors
   chapters:
   - file: vectors/intro
+  - file: vectors/operations
 - caption: Complex Numbers
   chapters:
   - file: complex-numbers/imaginary-numbers
