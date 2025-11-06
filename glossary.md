@@ -10,6 +10,9 @@ dimensional analysis
 machine precision
     Machine precision is the smallest difference between two distinct floating-point numbers that a computer can represent.
 
+perpendicular
+    Two vectors are said to be perpendicular if the angle between them is 90°, which occurs when their dot product equals zero.
+    
 real numbers
     Real numbers are all numbers that can represent continuous quantities along a number line, in contrast to complex numbers, which include an imaginary component.
 ```
