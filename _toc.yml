@@ -44,6 +44,7 @@ parts:
 - caption: Integration
   chapters:
   - file: integration/intro
+  - file: integration/int-with-limits
 - caption: Vectors
   chapters:
   - file: vectors/intro
