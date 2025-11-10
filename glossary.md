@@ -15,4 +15,7 @@ perpendicular
     
 real numbers
     Real numbers are all numbers that can represent continuous quantities along a number line, in contrast to complex numbers, which include an imaginary component.
+
+Reimann sum
+    A Riemann sum is an approximation of the area under a curve, calculated by summing the products of a function’s values at selected points and the widths of small subintervals over a given range.
 ```
