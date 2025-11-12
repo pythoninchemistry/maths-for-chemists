@@ -44,11 +44,11 @@ parts:
 - caption: Integration
   chapters:
   - file: integration/intro
-  - file: integration/int-polynomials
-  - file: integration/int-exponentials
-  - file: integration/int-trigonometric
-  - file: integration/constant-int
-  - file: integration/int-with-limits
+  - file: integration/polynomials
+  - file: integration/exponentials
+  - file: integration/trigonometric
+  - file: integration/constant
+  - file: integration/limits
   - file: integration/separating-variables
 - caption: Vectors
   chapters:
