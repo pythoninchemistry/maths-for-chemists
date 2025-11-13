@@ -10,6 +10,9 @@ dimensional analysis
 machine precision
     Machine precision is the smallest difference between two distinct floating-point numbers that a computer can represent.
 
+matrix diagonal 
+    The diagonal of a matrix is the set of elements that lie along the line from its top-left to bottom-right corner, where the row and column indices are equal.
+    
 perpendicular
     Two vectors are said to be perpendicular if the angle between them is 90°, which occurs when their dot product equals zero.
     
@@ -18,4 +21,7 @@ real numbers
 
 Reimann sum
     A Riemann sum is an approximation of the area under a curve, calculated by summing the products of a function’s values at selected points and the widths of small subintervals over a given range.
+
+symmteric matrix
+    A symmetric matrix is a square matrix that is equal to its transpose, meaning its entries are mirrored across the main diagonal.
 ```

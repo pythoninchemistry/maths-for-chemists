@@ -59,6 +59,9 @@ parts:
   - file: complex-numbers/imaginary-numbers
   - file: complex-numbers/complex-numbers
   - file: complex-numbers/arithmetic-of-complex-numbers
+- caption: Matrices
+  chapters:
+  - file: matrices/what
 - caption: Appendices
   chapters: 
   - file: glossary
