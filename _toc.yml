@@ -62,6 +62,7 @@ parts:
 - caption: Matrices
   chapters:
   - file: matrices/what
+  - file: matrices/algebra
 - caption: Appendices
   chapters: 
   - file: glossary
